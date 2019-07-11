@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 92633808c718a4db08529a8d889775e1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: leighton
+  fontNames:
+  - leighton
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 13f17dcdd20a949859ea98bc7d54c1c1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+﻿Are you stole the medicine?
+
+1.go
+2.wait

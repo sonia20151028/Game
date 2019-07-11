@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{57519B5A-0702-8D5E-8344-BE203C54CCC3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shooter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LevelLoader.cs" Line="8" Column="46" />
+      <File FileName="Assets/Scripts/Attacker.cs" Line="15" Column="33" />
+      <File FileName="Assets/Scripts/AttackerSpawner.cs" Line="30" Column="2" />
+      <File FileName="Assets/Scripts/Shooter.cs" Line="9" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Glitch Garden" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Shooter.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="52623260-a6d5-42ae-bb81-e39676bf79be" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
